@@ -60,9 +60,10 @@ ________________________________________
 <img width="1920" height="1080" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/91052dea-ea03-4ada-ae34-9c4b4752c1ea" />
 
 •	Successful ping between PC0 and PC1<br>
+<img width="1920" height="1080" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/580ed143-5248-4458-9ac9-aa8a4d4ada29" />
+
 <img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/e21cf380-0691-4aa6-83ef-a88c51651ab8" />
 
-<img width="1920" height="1080" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/6bb65b03-3109-4152-abe5-26f920d7c1dd" />
 
 ________________________________________
 # Result
